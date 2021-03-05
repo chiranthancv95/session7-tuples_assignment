@@ -1,4 +1,4 @@
-# **Session 7 - Tuples & Named Tuples
+# **Session 7 - Tuples & Named Tuples**
 
 ## **Assignment7A**
 1. Use Faker library to get 10000 random profiles. Using namedtuple, calculate the largest blood type, mean-current_location, oldest_person_age and average age (add proper doc-strings)
